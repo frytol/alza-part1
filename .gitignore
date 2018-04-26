@@ -1,1 +1,4 @@
 ./ignoruji.txt
+*.swp
+
+.DS_Store
